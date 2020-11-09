@@ -1,1 +1,1 @@
-Test CDN
+Picture CDN Warehouse
